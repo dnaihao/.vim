@@ -1,6 +1,6 @@
 # Project Title
 
-My .vim configuration
+My vim configuration
 
 ## Getting Started
 
