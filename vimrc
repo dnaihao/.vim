@@ -1,8 +1,8 @@
 " PATHOGEN PLUGIN MANAGEMENT
 " execute Pathogen (must be on top of .vimrc file)
-execute pathogen#infect()
-filetype plugin indent on
-syntax on
+ execute pathogen#infect()
+ filetype plugin indent on
+ syntax on
 
 
 " GENERAL SETTING
